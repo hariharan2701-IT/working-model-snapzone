@@ -22,7 +22,7 @@ Backend: Express.js, Node.js
 
 Database: MongoDB
 
-Tools: Figma (UI/UX Design)
+Tools: vs code 
 
 Installation
 
